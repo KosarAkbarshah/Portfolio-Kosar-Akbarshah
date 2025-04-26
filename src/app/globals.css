@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Flavors&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Finger+Paint&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 27 27 27;
+    --foreground: 225 225 225;
+    --muted: 115 115 115;
+    --accent: 254 254 91;
+    /* #FEFE5B */
+  }
+}
+
+
+@layer utilities {
+
+  /* //to pause the menu icons on hover */
+  .pause {
+    animation-play-state: paused;
+  }
+
+  .custom-bg {
+    @apply bg-background/20 border border-accent/10 border-solid backdrop-blur-[6px] shadow-glass-inset hover:shadow-glass-sm hover:transition-all hover:scale-[1.02] hover:duration-500 cursor-pointer
+  }
+}
+
+@keyframes move {
+  0% {
+    transform: translate(0, 0);
+  }
+
+  100% {
+    transform: translate(100px, 100px);
+  }
+}
