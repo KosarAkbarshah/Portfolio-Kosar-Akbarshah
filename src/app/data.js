@@ -135,7 +135,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "/resume.pdf",
+    link: "/kosarakbarshah-resume-portfolio.pdf",
     icon: "resume",
     newTab: true,
   },

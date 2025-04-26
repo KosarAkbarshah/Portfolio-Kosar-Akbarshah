@@ -16,7 +16,7 @@ export default function Home() {
       <Image priority sizes="100vw"
        src={bg} alt="background-image" fill className="w-full h-screen object-cover object-center opacity-30" />
 
-      <div className="w-full border h-screen">
+      <div className="w-full  h-screen">
         {/* Navigation and 3D Models */}
         <Navigation />
         <RenderModel>
