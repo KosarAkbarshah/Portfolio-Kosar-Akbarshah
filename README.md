@@ -1,6 +1,6 @@
 # 🚀 Portfolio - Next.js Creative Portfolio
 
-**Live Demo:** [https://portfolio-clean.vercel.app/](https://portfolio-clean.vercel.app/)  
+**Live Demo:** [Live Demo](https://portfolio-clean.vercel.app/)  
 
 ---
 
@@ -26,8 +26,6 @@ It features animated 3D models, smooth transitions, ambient background music, an
 
 ### 📞 Contact Page
 ![Contact Page](public/screenshots/contact.png)
-
-> *(Make sure you save your screenshots inside `/public/screenshots/` with the same names, or update the links if needed!)*
 
 ---
 
