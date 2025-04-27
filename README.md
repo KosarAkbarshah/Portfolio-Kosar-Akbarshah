@@ -107,5 +107,5 @@ This project is open-sourced for educational and personal use.
 
 ---
 
-# 🚀 [View Live Demo](https://portfolio-clean.vercel.app/)
+# 🚀 [View Live Demo](https://portfolio-kosar-akbarshah.vercel.app/)
 
